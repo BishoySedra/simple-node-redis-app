@@ -1,0 +1,11 @@
+# here is a .dockerignore file that excludes common files and directories
+# that are not needed in the Docker image
+node_modules
+npm-debug.log
+Dockerfile
+docker-compose.yml
+.dockerignore
+.git
+.gitignore
+.env
+*.md
