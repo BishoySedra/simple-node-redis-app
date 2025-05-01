@@ -137,4 +137,3 @@ This stops and removes the containers, but retains the images.
 ## ✨ Author
 
 Developed by [Bishoy Sedra](https://github.com/BishoySedra)
-```
